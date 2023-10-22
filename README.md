@@ -1,6 +1,6 @@
 # Edge Computing Checkpoint 2 - Caso Vinheira Agnello
 
-Status: Developed
+> Status: Developed
 
 Imagem do Esquema de Montagem
 
