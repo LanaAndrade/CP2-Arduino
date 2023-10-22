@@ -30,10 +30,10 @@ O projeto foi desenvolvido utilizando a plataforma TinkerCad para a montagem do 
 
 ## Desenvolvedores
 
-Desenvolvedor   | RM
-:------: | :------:
-Caio Freitas | 553190
-Lana Andrade | 552596
-Lucas Garcia | 554070
-Mateus Tibão | 553267
+Desenvolvedor | RM
+:-----------: | :------:
+Caio Freitas  | 553190
+Lana Andrade  | 552596
+Lucas Garcia  | 554070
+Mateus Tibão  | 553267
 
