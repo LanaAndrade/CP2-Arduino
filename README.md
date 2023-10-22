@@ -1,6 +1,5 @@
-# CP2-Arduino
+# Edge Computing Checkpoint 2 - Caso Vinheira Agnello
 
-Edge Computing Checkpoint - Caso Vinheira Agnello
 Status: Developed
 
 Imagem do Esquema de Montagem
