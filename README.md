@@ -6,7 +6,7 @@ Imagem do Esquema de Montagem
 
 O caso apresentado trata-se de uma vinheira que deseja simular uma experiência web similar a experiência real. Para isso, foi utilizado um Arduino Uno para simular o monitoramento da qualidade dos vinhos.
 
-Componentes
+## Componentes
 1 Arduino Uno R3
 1 Placa de Ensaio
 3 LED's (Utilizados para indicar o estado do ambiente)
