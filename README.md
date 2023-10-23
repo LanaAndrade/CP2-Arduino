@@ -24,9 +24,9 @@ O caso apresentado trata-se de uma vinheira que deseja simular uma experiência 
 O projeto foi desenvolvido utilizando a plataforma TinkerCad para a montagem do esquema e para a codificação. O projeto será validado em aula no dia 30/10/2023 pelo professor responsável.
 
 ## Código Fonte
-[Link para o simulador]()
+[Link para o simulador](https://wokwi.com/projects/379328212040101889)
 
-### [Video Explicativo do Projeto](https://wokwi.com/projects/379328212040101889)
+### [Video Explicativo do Projeto]()
 
 ## Desenvolvedores
 
