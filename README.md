@@ -4,7 +4,7 @@
 
 Imagem do Esquema de Montagem
 
-O caso apresentado trata-se de uma vinheira que deseja simular uma experiência web similar a experiência real. Para isso, foi utilizado um Arduino Uno para simular o monitoramento da qualidade dos vinhos.
+O caso apresentado trata-se de uma vinheira que deseja simular uma experiência web similar a experiência real. Para isso, foi utilizado um Arduino Uno para simular o monitoramento da qualidade dos vinhos, garantindo a suavidade do calor e da iluminação, assim como níveis adequados de humidade.
 
 ## Componentes
 * 1 Arduino Uno R3
@@ -13,15 +13,15 @@ O caso apresentado trata-se de uma vinheira que deseja simular uma experiência 
 * 1 LED Vermelho (Crítico)
 * 1 LED Amarelo (Alerta)
 * 1 LED Verde (Normal)
+* 1 DHT11 (Sensor de humidade e temperatura)
 * 1 Fotoresistor LDR (Utilizado para verificar a quantidade de luz do ambiente)
 * 1 Buzzer (Utilizado para soar um aviso sonoro em caso do estado estar Crítico ou em Alerta)
-* 4 Resistores
-* 1 Resistor de 10kΩ (Utilizado no LDR)
-* 3 Resistores de 1kΩ (Utilizado nos LED's)
-* 9 Cabos Jumper Macho x Macho
+* 1 Display LCD
+* 5 Resistores de 1kΩ (Utilizado nos LED's)
+* 36 Cabos Jumper Macho x Macho
   
 ## Desenvolvimento
-O projeto foi desenvolvido utilizando a plataforma TinkerCad para a montagem do esquema e para a codificação. O projeto será validado em aula no dia 25/09/2023 pelo professor responsável.
+O projeto foi desenvolvido utilizando a plataforma TinkerCad para a montagem do esquema e para a codificação. O projeto será validado em aula no dia 30/10/2023 pelo professor responsável.
 
 ## Código Fonte
 [Link para o simulador]()
