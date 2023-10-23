@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando a plataforma TinkerCad para a montagem do 
 ## Código Fonte
 [Link para o simulador]()
 
-### [Video Explicativo do Projeto]()
+### [Video Explicativo do Projeto](https://wokwi.com/projects/379328212040101889)
 
 ## Desenvolvedores
 
