@@ -26,13 +26,14 @@ O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esqu
 ## Código Fonte
 [Link para o simulador](https://wokwi.com/projects/379966980664468481)
 
-### [Video Explicativo do Projeto]()
+### [Video Explicativo do Projeto](https://youtu.be/Vo5QHUxvhsI?si=DWtgALVplX1-CqN2)
 
 ## Desenvolvedores
 
 Desenvolvedor | RM
 :-----------: | :------:
 Caio Freitas  | 553190
+Felipe Santana| 554259
 Lana Andrade  | 552596
 Lucas Garcia  | 554070
 Mateus Tibão  | 553267
