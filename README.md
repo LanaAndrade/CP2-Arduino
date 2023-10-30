@@ -26,9 +26,9 @@ O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esqu
 ## Código Fonte
 [Link para o simulador](https://wokwi.com/projects/379966980664468481)
 
-## [![Vídeo Explicativo]          // Title
-(https://ibb.co/YNmRGTF)] // Thumbnail
-(https://www.youtube.com/watch?v=Vo5QHUxvhsI "Vídeo Explicativo")    // Video Link
+[![Vídeo Explicativo]      
+(https://ibb.co/YNmRGTF)]
+(https://www.youtube.com/watch?v=Vo5QHUxvhsI "Vídeo Explicativo")
 
 
 ## Desenvolvedores
