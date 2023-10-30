@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esqu
 ## Código Fonte
 [Link para o simulador](https://wokwi.com/projects/379966980664468481)
 
-### [Video Explicativo do Projeto](https://youtu.be/Vo5QHUxvhsI?si=DWtgALVplX1-CqN2)
+### <iframe width="853" height="480" src="https://www.youtube.com/embed/Vo5QHUxvhsI" title="checkpoint 2 edge computing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Desenvolvedores
 
