@@ -28,7 +28,7 @@ O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esqu
 
 [<img src="https://ibb.co/YNmRGTF" >](https://www.youtube.com/watch?v=Vo5QHUxvhsI "Now in Android: 55")
 
-<a href="https://ibb.co/YNmRGTF"><img src="https://i.ibb.co/9p68j3k/Whats-App-Image-2023-10-30-at-19-44-49.jpg" alt="Whats-App-Image-2023-10-30-at-19-44-49" border="0"></a>
+<a href="https://www.youtube.com/watch?v=Vo5QHUxvhsI"><img src="https://i.ibb.co/9p68j3k/Whats-App-Image-2023-10-30-at-19-44-49.jpg" alt="Whats-App-Image-2023-10-30-at-19-44-49" border="0"></a>
 
 ## Desenvolvedores
 
