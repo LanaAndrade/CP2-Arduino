@@ -21,7 +21,7 @@ O caso apresentado trata-se de uma vinheira que deseja simular uma experiência 
 * 36 Cabos Jumper Macho x Macho
   
 ## Desenvolvimento
-O projeto foi desenvolvido utilizando a plataforma TinkerCad para a montagem do esquema e para a codificação. O projeto será validado em aula no dia 30/10/2023 pelo professor responsável.
+O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esquema e para a codificação. O projeto será validado em aula no dia 30/10/2023 pelo professor responsável.
 
 ## Código Fonte
 [Link para o simulador](https://wokwi.com/projects/379966980664468481)
