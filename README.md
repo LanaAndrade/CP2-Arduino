@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esqu
 ## Código Fonte
 [Link para o simulador](https://wokwi.com/projects/379966980664468481)
 
-[<img src="https://ibb.co/YNmRGTF" width="50%">](https://www.youtube.com/watch?v=Vo5QHUxvhsI "Now in Android: 55")
+[<img src="https://photos.google.com/photo/AF1QipNKwgRKeGGGlwrO1kDBA5JRLaNMegZ6eripdeMt" width="50%">](https://www.youtube.com/watch?v=Vo5QHUxvhsI "Now in Android: 55")
 
 
 ## Desenvolvedores
